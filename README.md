@@ -7,8 +7,8 @@
 ![Collection Creation](https://github.com/SkyC0der/mongodb-basics/blob/master/img/interns.JPG?raw=true)
 
 ## MONGODB BASICS - NODEJS TASK 2
-![interns_updated]()
+![interns_updated](https://github.com/SkyC0der/mongodb-basics/blob/crud-basics/img/interns2.JPG?raw=true)
 <br>
-![findInterns]()
+![findInterns](https://github.com/SkyC0der/mongodb-basics/blob/crud-basics/img/findInterns.JPG?raw=true)
 <br>
-![update_interns]()
+![update_interns](https://github.com/SkyC0der/mongodb-basics/blob/crud-basics/img/update_interns.JPG?raw=true)
