@@ -11,4 +11,4 @@
 <br>
 ![findInterns](https://github.com/SkyC0der/mongodb-basics/blob/crud-basics/img/findInterns.JPG?raw=true)
 <br>
-![update_interns](https://github.com/SkyC0der/mongodb-basics/blob/crud-basics/img/update_interns.JPG?raw=true)
+![update_interns](https://github.com/SkyC0der/mongodb-basics/blob/crud-basics/img/updateInterns.JPG?raw=true)
